@@ -1,0 +1,30 @@
+{
+  "name": "beerttracker",
+  "version": "0.0.1",
+  "description": "Beer Tracker for TT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/doogey/beerttracker.git"
+  },
+  "keywords": [
+    "beer",
+    "tracker",
+    "Thirsty",
+    "Thursday"
+  ],
+  "author": "doogey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doogey/beerttracker/issues"
+  },
+  "homepage": "https://github.com/doogey/beerttracker#readme",
+  "dependencies": {
+    "async": "^2.1.5",
+    "express": "^4.15.2",
+    "lodash": "^4.17.4"
+  }
+}
